@@ -1,1 +1,1 @@
-# gitPractice
+# gitPractice is best practice
